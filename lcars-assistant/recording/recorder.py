@@ -1,1 +1,10 @@
-import speech_recognition as sr
+class Recorder:
+    pass
+
+
+class LoopRecorder(Recorder):
+    pass
+
+
+class ContinuusRecorder(Recorder):
+    pass
